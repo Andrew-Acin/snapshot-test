@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top card-pic"
+    src="/Andrew Acin.jpg"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Andrew Acin
+    </div>
+    <p
+      className="card-text"
+    >
+      Software Developer Student, just trying to make it.
+    </p>
+    <a
+      className="card-link"
+      href="https://github.com/Andrew-Acin"
+    >
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        type="button"
+      >
+        GitHub
+      </button>
+    </a>
+  </div>
+</div>
+`;
